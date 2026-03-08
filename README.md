@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=hey,%20I'm%20Aysel%20fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=junior%20frontend%20developer%20/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=hey,%20i'm%20aysel%20🐹&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=frontend%20developer%20💕&descAlignY=55&descSize=16" />
 
 </div>
 
@@ -8,11 +8,12 @@
 
 ### 😊 about me
 
-👋 Hello! I'm **Aysel**, a Junior Frontend Developer passionate about crafting beautiful web experiences.
+👋 I am very passionate about coding and love learning. I see myself growing and building a career in web development.
+I have an international certification and I believe I can further improve my skills through practical experiences and real projects.
 
-I am very passionate about coding and love learning. I see myself growing and building a career in web development. I have an **international certification** and I believe I can further improve my skills through practical experiences and real projects.
+🤝 **Looking to collaborate on:** I want to work as a frontend developer in projects together with backend developers.
 
-🤝 **Looking to collaborate on:** Frontend projects alongside backend developers — let's build something great together!
+🙌 **Teamwork & Collaboration:** I am eager to work in teams and contribute actively to real projects while learning from experienced developers.
 
 ---
 
@@ -26,6 +27,15 @@ I am very passionate about coding and love learning. I see myself growing and bu
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+---
+
+### 🔧 version control tools
+
+<div align="center">
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -33,15 +43,17 @@ I am very passionate about coding and love learning. I see myself growing and bu
 
 ---
 
-Frontend 
-- HTML5 & CSS3
-- JavaScript & React
-- Tailwind / Bootstrap / SASS
+### 🌱 currently learning
 
-**Currently learning**
-- TypeScript
-- Next.js
-- UI/UX Design principles
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
@@ -71,6 +83,7 @@ Frontend
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayselmohbaliyeva8/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayselmohbaliyeva22@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aisel-mohbaliyeva)
 
 </div>
 
