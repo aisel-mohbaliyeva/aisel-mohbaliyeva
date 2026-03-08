@@ -4,14 +4,14 @@
 
 </div>
 
-### 😊 Me :
+### 👩🏼‍💻 Me :
 I am passionate about coding and continuous learning. I aim to build a strong career in web development by improving my skills and gaining practical experience through real-world projects. I am always motivated to expand my knowledge and work on meaningful projects.
 
 Looking to collaborate on: I am interested in working as a Frontend Developer and collaborating with backend developers to build modern and user-friendly web applications.
 
 ---
 
-### 💻 tech stack
+### Tech stack
 
 <div align="center">
 
