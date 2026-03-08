@@ -59,7 +59,11 @@ I have an international certification and I believe I can further improve my ski
 
 ### 📜 certifications
 
-🏅 **Meta Front-End Developer Certificate** — by Meta
+<div align="center">
+
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) **Front-End Developer Certificate**
+
+</div>
 
 ---
 
