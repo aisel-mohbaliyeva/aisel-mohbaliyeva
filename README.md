@@ -33,14 +33,12 @@ I am very passionate about coding and love learning. I see myself growing and bu
 
 ---
 
-### 🌱 learning path
-
-**Frontend focus**
+Frontend 
 - HTML5 & CSS3
 - JavaScript & React
 - Tailwind / Bootstrap / SASS
 
-**Currently exploring**
+**Currently learning**
 - TypeScript
 - Next.js
 - UI/UX Design principles
