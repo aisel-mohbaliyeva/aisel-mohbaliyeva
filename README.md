@@ -3,16 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello.%20I'm%20Aysel%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20developer%20💕&descAlignY=55&descSize=16" />
 
 </div>
----
 
-### 😊 about me
+### 😊 Me : 
 
-👋 I am very passionate about coding and love learning. I see myself growing and building a career in web development.
-I have an international certification and I believe I can further improve my skills through practical experiences and real projects.
+👋 I am passionate about coding and continuous learning. I aim to build a strong career in web development by improving my skills and gaining practical experience through real-world projects. I am always motivated to expand my knowledge and work on meaningful projects.
 
-🤝 **Looking to collaborate on:** I want to work as a frontend developer in projects together with backend developers.
-
-🙌 **Teamwork & Collaboration:** I am eager to work in teams and contribute actively to real projects while learning from experienced developers.
+🤝 Looking to collaborate on: I am interested in working as a Frontend Developer and collaborating with backend developers to build modern and user-friendly web applications.
 
 ---
 
