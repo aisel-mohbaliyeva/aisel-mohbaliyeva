@@ -6,9 +6,9 @@
 
 ### 😊 Me : 
 
-👋 I am passionate about coding and continuous learning. I aim to build a strong career in web development by improving my skills and gaining practical experience through real-world projects. I am always motivated to expand my knowledge and work on meaningful projects.
+ I am passionate about coding and continuous learning. I aim to build a strong career in web development by improving my skills and gaining practical experience through real-world projects. I am always motivated to expand my knowledge and work on meaningful projects.
 
-🤝 Looking to collaborate on: I am interested in working as a Frontend Developer and collaborating with backend developers to build modern and user-friendly web applications.
+ Looking to collaborate on: I am interested in working as a Frontend Developer and collaborating with backend developers to build modern and user-friendly web applications.
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-### 🔧 version control tools
+### Version control & Tools
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 ---
 
-### 🌱 currently learning
+### Currently learning
 
 <div align="center">
 
@@ -51,9 +51,9 @@
 </div>
 
 ---
-### 📜 certifications
+### Certifications
 
-🏅 **Meta Front-End Developer Certificate** — by Meta
+**Meta Front-End Developer Certificate** — by Meta
 
 <div align="center">
 
@@ -62,7 +62,19 @@
 </div>
 ---
 
-### 📊 github stats
+### 🌐 Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayselmohbaliyeva8/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayselmohbaliyeva22@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aisel-mohbaliyeva)
+
+</div>
+
+---
+
+### 📊 Github stats
 
 <div align="center">
 
@@ -74,19 +86,6 @@
 
 </div>
 
----
-
-### 🌐 socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayselmohbaliyeva8/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayselmohbaliyeva22@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aisel-mohbaliyeva)
-
-</div>
-
----
 
 <div align="center">
 
