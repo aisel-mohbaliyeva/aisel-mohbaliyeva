@@ -63,18 +63,6 @@ Looking to collaborate on: I am interested in working as a Frontend Developer an
 
 ---
 
-### 🌐 Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayselmohbaliyeva8/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayselmohbaliyeva22@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aisel-mohbaliyeva)
-
-</div>
-
----
-
 ### 📊 Github stats
 
 <div align="center">
@@ -86,6 +74,20 @@ Looking to collaborate on: I am interested in working as a Frontend Developer an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aisel-mohbaliyeva&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+
+---
+
+### 🌐 Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayselmohbaliyeva8/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayselmohbaliyeva22@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aisel-mohbaliyeva)
+
+</div>
+
+---
 
 <div align="center">
 
