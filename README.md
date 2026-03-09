@@ -26,7 +26,7 @@ Looking to collaborate on: I am interested in working as a Frontend Developer an
 
 ---
 
-### Version control & Tools
+### Tools
 
 <div align="center">
 
