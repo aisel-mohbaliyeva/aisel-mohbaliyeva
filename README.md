@@ -1,5 +1,4 @@
 
-# Hey, I'm Aysel 👋
 ### iOS Developer • SwiftUI Enthusiast
 
 I build clean, modern iOS apps with a focus on great user experience and solid architecture. Also building a solid foundation in frontend development with JavaScript and React.
