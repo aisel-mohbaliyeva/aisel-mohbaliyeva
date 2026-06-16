@@ -16,8 +16,7 @@ struct AyselMohbaliyeva {
         "REST APIs & Firebase integration",
         "MapKit & location-based apps",
         "HealthKit & sensor data",
-        "Real-time chat & Cloud Firestore",
-        "Building apps for the Azerbaijani market"
+        "Real-time chat & Cloud Firestore".
     ]
     func currentFocus() -> String {
         "Refining my own app idea and working towards my first App Store release."
