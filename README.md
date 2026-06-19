@@ -7,7 +7,7 @@ I build clean, modern iOS apps with a focus on great user experience and solid a
 ```swift
 struct AyselMohbaliyeva {
     let role       = "iOS Developer"
-    let mainStack  = "Swift · SwiftUI · Firebase"
+    let mainStack  = "Swift · SwiftUI · UIKit · Firebase"
     let location   = "Baku, Azerbaijan"
     let started    = "2025"
     let interests: [String] = [
